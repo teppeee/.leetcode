@@ -33,5 +33,6 @@ pub fn check_palindromic(s:&[char]) -> bool {
     }
     ret
 }
+
 // @lc code=end
 
