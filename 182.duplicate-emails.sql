@@ -1,0 +1,1 @@
+Select Email From Person Group by Email having count(*) > 1
